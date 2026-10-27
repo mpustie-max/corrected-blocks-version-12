@@ -1,0 +1,29 @@
+{
+    "name": "Corrected Blocks (Version 1.2)",
+    "description": "",
+    "dependencies": {
+        "sparkfun-samd21-dev-breakout": "*",
+        "pxt-samd21-zumo": "github:lbaitemple/pxt-samd21-zumo#00c72f932a33e34c8321f43c87ad64ae40c95198"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.15.66",
+        "tag": "v0.15.66",
+        "commits": "https://github.com/microsoft/pxt-maker/commits/1439f19f93e7699d21b816a9b7ed60840b0d3924",
+        "target": "0.15.77",
+        "pxt": "8.1.1",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "blocksprj"
+}
